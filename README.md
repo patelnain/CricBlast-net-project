@@ -1,5 +1,5 @@
 <p align= "center">
-    <img src="https://raofin.github.io/r/img/CricBlast/CricBlast.png" title="Logo" alt="Logo" width="350">
+    <img src="https://patelnain.github.io/r/img/CricBlast/CricBlast.png" title="Logo" alt="Logo" width="350">
     <br/>
     <b>CricBlast</b> is a cricket game project developed to demonstrate <b>object oriented concepts in C#, Windows Forms, Microsoft SQL Server</b>, and many other things.
 </p>
